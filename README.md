@@ -1,4 +1,4 @@
-# spartan-nodejs-web-server
+# spartan-nodejs-webserver
 Just a spartan web server made with nodejs and express, 10 lines of code, feel free to *contribute it*
 
 * To install me, run `npm install`
