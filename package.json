@@ -1,0 +1,12 @@
+{
+    "name": "node-web-server",
+    "version": "1.0.0",
+    "main": "webserver.js",
+    "dependencies": {
+        "express": "^4.14.0",
+        "path": "^0.12.7"
+    },
+    "author": "Manuele Dones",
+    "license": "ISC"
+    
+}
